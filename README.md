@@ -38,7 +38,7 @@ $ python3 nrc_reactor/reactors.py
 
 Open command prompt, WSL, or Bash and cd to the root directory of the package
 ```sh
-$ cd path/to/NRC_Reactors_365
+$ cd path/to/Nuclear
 ```
 
 Run pip install with the python env you would like the package to be installed to
